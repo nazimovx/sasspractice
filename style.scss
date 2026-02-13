@@ -1,4 +1,4 @@
-@for $i from 1 through 100 {
+@for $i from 1 through 200 {
   
  .text-#{$i} { 
     font-size: #{$i}vh; 
@@ -63,7 +63,7 @@
 
 
 
-$colors : red, green, yellow, white, blue; 
+$colors : red, green, yellow, white, blue,gray; 
 
 @each $c in $colors { 
     .rang-#{$c} { 
@@ -90,3 +90,10 @@ $contents: space-between, center, space-around, space-evenly;
 } 
 
 
+$border: none; 
+
+@each $x in $border { 
+   .border-#{$x} { 
+      border: $x;
+   }
+}
