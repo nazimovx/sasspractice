@@ -1,0 +1,92 @@
+@for $i from 1 through 100 {
+  
+ .text-#{$i} { 
+    font-size: #{$i}vh; 
+ } 
+  
+ .m-#{$i} { 
+    margin: #{$i}vh; 
+ } 
+  
+ .ml-#{$i} { 
+    margin-left: #{$i}vh;  
+ } 
+  
+ .mr-#{$i} { 
+    margin-right: #{$i}vh; 
+ } 
+  
+ .mt-#{$i} { 
+    margin-top: #{$i}vh; 
+ } 
+  
+ .mb-#{$i} { 
+    margin-bottom: #{$i}vh; 
+ } 
+  
+ .p-#{$i} { 
+    padding: #{$i}vh; 
+ } 
+  
+ .pt-#{$i} { 
+    padding-top: #{$i}vh; 
+ } 
+  
+ .pl-#{$i} { 
+    padding-left: #{$i}vh; 
+ } 
+ .pr-#{$i} { 
+    padding-right: #{$i}vh; 
+ }  
+ .pb-#{$i} { 
+    padding-bottom: #{$i}vh;
+ } 
+ .w-#{$i} { 
+    width: #{$i}vh;
+ } 
+ .h-#{$i} { 
+    height: #{$i}vh; 
+ } 
+ .rounded-#{$i} { 
+    border-radius: #{$i}vh;
+ } 
+ .border-#{$i} { 
+    border: #{$i}vh;
+ }
+  
+ 
+
+
+ 
+}
+
+
+
+
+$colors : red, green, yellow, white, blue; 
+
+@each $c in $colors { 
+    .rang-#{$c} { 
+        color: $c ; 
+    }  
+    .bg-#{$c} { 
+        background-color: $c; 
+    }
+} 
+
+
+$displays: flex, none, grid ; 
+@each $d in $displays { 
+   .#{$d} { 
+      display: $d; 
+   } 
+} 
+
+$contents: space-between, center, space-around, space-evenly; 
+@each $k in $contents { 
+   .justify-#{$k} { 
+      justify-content: $k; 
+   } 
+} 
+
+
