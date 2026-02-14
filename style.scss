@@ -51,7 +51,7 @@
     border-radius: #{$i}vh;
  } 
  .border-#{$i} { 
-    border: #{$i}vh;
+    border-width: #{$i}px;
  }
   
  
@@ -88,6 +88,12 @@ $contents: space-between, center, space-around, space-evenly;
       justify-content: $k; 
    } 
 } 
+$contents: space-between, center, space-around, space-evenly; 
+@each $k in $contents { 
+   .items-#{$k} { 
+      align-items: $k; 
+   } 
+} 
 
 
 $border: none; 
@@ -98,11 +104,24 @@ $border: none;
    }
 } 
 
-@alins : center, end, start ; 
+$alins : center, end, start ; 
 
 @each $q in $alins { 
    .align-#{$q} { 
       text-align: #{$q};
    }  
 
+}   
+
+$borders:solid; 
+@each $b in $borders { 
+   .border-#{$b} { 
+      border: $b;
+   } 
+} 
+$borders: black gray; 
+@each $b in $borders { 
+   .border-#{$b} { 
+      border: $b;
+   } 
 } 

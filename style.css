@@ -55,7 +55,7 @@
 }
 
 .border-1 {
-  border: 1vh;
+  border-width: 1px;
 }
 
 .text-2 {
@@ -115,7 +115,7 @@
 }
 
 .border-2 {
-  border: 2vh;
+  border-width: 2px;
 }
 
 .text-3 {
@@ -175,7 +175,7 @@
 }
 
 .border-3 {
-  border: 3vh;
+  border-width: 3px;
 }
 
 .text-4 {
@@ -235,7 +235,7 @@
 }
 
 .border-4 {
-  border: 4vh;
+  border-width: 4px;
 }
 
 .text-5 {
@@ -295,7 +295,7 @@
 }
 
 .border-5 {
-  border: 5vh;
+  border-width: 5px;
 }
 
 .text-6 {
@@ -355,7 +355,7 @@
 }
 
 .border-6 {
-  border: 6vh;
+  border-width: 6px;
 }
 
 .text-7 {
@@ -415,7 +415,7 @@
 }
 
 .border-7 {
-  border: 7vh;
+  border-width: 7px;
 }
 
 .text-8 {
@@ -475,7 +475,7 @@
 }
 
 .border-8 {
-  border: 8vh;
+  border-width: 8px;
 }
 
 .text-9 {
@@ -535,7 +535,7 @@
 }
 
 .border-9 {
-  border: 9vh;
+  border-width: 9px;
 }
 
 .text-10 {
@@ -595,7 +595,7 @@
 }
 
 .border-10 {
-  border: 10vh;
+  border-width: 10px;
 }
 
 .text-11 {
@@ -655,7 +655,7 @@
 }
 
 .border-11 {
-  border: 11vh;
+  border-width: 11px;
 }
 
 .text-12 {
@@ -715,7 +715,7 @@
 }
 
 .border-12 {
-  border: 12vh;
+  border-width: 12px;
 }
 
 .text-13 {
@@ -775,7 +775,7 @@
 }
 
 .border-13 {
-  border: 13vh;
+  border-width: 13px;
 }
 
 .text-14 {
@@ -835,7 +835,7 @@
 }
 
 .border-14 {
-  border: 14vh;
+  border-width: 14px;
 }
 
 .text-15 {
@@ -895,7 +895,7 @@
 }
 
 .border-15 {
-  border: 15vh;
+  border-width: 15px;
 }
 
 .text-16 {
@@ -955,7 +955,7 @@
 }
 
 .border-16 {
-  border: 16vh;
+  border-width: 16px;
 }
 
 .text-17 {
@@ -1015,7 +1015,7 @@
 }
 
 .border-17 {
-  border: 17vh;
+  border-width: 17px;
 }
 
 .text-18 {
@@ -1075,7 +1075,7 @@
 }
 
 .border-18 {
-  border: 18vh;
+  border-width: 18px;
 }
 
 .text-19 {
@@ -1135,7 +1135,7 @@
 }
 
 .border-19 {
-  border: 19vh;
+  border-width: 19px;
 }
 
 .text-20 {
@@ -1195,7 +1195,7 @@
 }
 
 .border-20 {
-  border: 20vh;
+  border-width: 20px;
 }
 
 .text-21 {
@@ -1255,7 +1255,7 @@
 }
 
 .border-21 {
-  border: 21vh;
+  border-width: 21px;
 }
 
 .text-22 {
@@ -1315,7 +1315,7 @@
 }
 
 .border-22 {
-  border: 22vh;
+  border-width: 22px;
 }
 
 .text-23 {
@@ -1375,7 +1375,7 @@
 }
 
 .border-23 {
-  border: 23vh;
+  border-width: 23px;
 }
 
 .text-24 {
@@ -1435,7 +1435,7 @@
 }
 
 .border-24 {
-  border: 24vh;
+  border-width: 24px;
 }
 
 .text-25 {
@@ -1495,7 +1495,7 @@
 }
 
 .border-25 {
-  border: 25vh;
+  border-width: 25px;
 }
 
 .text-26 {
@@ -1555,7 +1555,7 @@
 }
 
 .border-26 {
-  border: 26vh;
+  border-width: 26px;
 }
 
 .text-27 {
@@ -1615,7 +1615,7 @@
 }
 
 .border-27 {
-  border: 27vh;
+  border-width: 27px;
 }
 
 .text-28 {
@@ -1675,7 +1675,7 @@
 }
 
 .border-28 {
-  border: 28vh;
+  border-width: 28px;
 }
 
 .text-29 {
@@ -1735,7 +1735,7 @@
 }
 
 .border-29 {
-  border: 29vh;
+  border-width: 29px;
 }
 
 .text-30 {
@@ -1795,7 +1795,7 @@
 }
 
 .border-30 {
-  border: 30vh;
+  border-width: 30px;
 }
 
 .text-31 {
@@ -1855,7 +1855,7 @@
 }
 
 .border-31 {
-  border: 31vh;
+  border-width: 31px;
 }
 
 .text-32 {
@@ -1915,7 +1915,7 @@
 }
 
 .border-32 {
-  border: 32vh;
+  border-width: 32px;
 }
 
 .text-33 {
@@ -1975,7 +1975,7 @@
 }
 
 .border-33 {
-  border: 33vh;
+  border-width: 33px;
 }
 
 .text-34 {
@@ -2035,7 +2035,7 @@
 }
 
 .border-34 {
-  border: 34vh;
+  border-width: 34px;
 }
 
 .text-35 {
@@ -2095,7 +2095,7 @@
 }
 
 .border-35 {
-  border: 35vh;
+  border-width: 35px;
 }
 
 .text-36 {
@@ -2155,7 +2155,7 @@
 }
 
 .border-36 {
-  border: 36vh;
+  border-width: 36px;
 }
 
 .text-37 {
@@ -2215,7 +2215,7 @@
 }
 
 .border-37 {
-  border: 37vh;
+  border-width: 37px;
 }
 
 .text-38 {
@@ -2275,7 +2275,7 @@
 }
 
 .border-38 {
-  border: 38vh;
+  border-width: 38px;
 }
 
 .text-39 {
@@ -2335,7 +2335,7 @@
 }
 
 .border-39 {
-  border: 39vh;
+  border-width: 39px;
 }
 
 .text-40 {
@@ -2395,7 +2395,7 @@
 }
 
 .border-40 {
-  border: 40vh;
+  border-width: 40px;
 }
 
 .text-41 {
@@ -2455,7 +2455,7 @@
 }
 
 .border-41 {
-  border: 41vh;
+  border-width: 41px;
 }
 
 .text-42 {
@@ -2515,7 +2515,7 @@
 }
 
 .border-42 {
-  border: 42vh;
+  border-width: 42px;
 }
 
 .text-43 {
@@ -2575,7 +2575,7 @@
 }
 
 .border-43 {
-  border: 43vh;
+  border-width: 43px;
 }
 
 .text-44 {
@@ -2635,7 +2635,7 @@
 }
 
 .border-44 {
-  border: 44vh;
+  border-width: 44px;
 }
 
 .text-45 {
@@ -2695,7 +2695,7 @@
 }
 
 .border-45 {
-  border: 45vh;
+  border-width: 45px;
 }
 
 .text-46 {
@@ -2755,7 +2755,7 @@
 }
 
 .border-46 {
-  border: 46vh;
+  border-width: 46px;
 }
 
 .text-47 {
@@ -2815,7 +2815,7 @@
 }
 
 .border-47 {
-  border: 47vh;
+  border-width: 47px;
 }
 
 .text-48 {
@@ -2875,7 +2875,7 @@
 }
 
 .border-48 {
-  border: 48vh;
+  border-width: 48px;
 }
 
 .text-49 {
@@ -2935,7 +2935,7 @@
 }
 
 .border-49 {
-  border: 49vh;
+  border-width: 49px;
 }
 
 .text-50 {
@@ -2995,7 +2995,7 @@
 }
 
 .border-50 {
-  border: 50vh;
+  border-width: 50px;
 }
 
 .text-51 {
@@ -3055,7 +3055,7 @@
 }
 
 .border-51 {
-  border: 51vh;
+  border-width: 51px;
 }
 
 .text-52 {
@@ -3115,7 +3115,7 @@
 }
 
 .border-52 {
-  border: 52vh;
+  border-width: 52px;
 }
 
 .text-53 {
@@ -3175,7 +3175,7 @@
 }
 
 .border-53 {
-  border: 53vh;
+  border-width: 53px;
 }
 
 .text-54 {
@@ -3235,7 +3235,7 @@
 }
 
 .border-54 {
-  border: 54vh;
+  border-width: 54px;
 }
 
 .text-55 {
@@ -3295,7 +3295,7 @@
 }
 
 .border-55 {
-  border: 55vh;
+  border-width: 55px;
 }
 
 .text-56 {
@@ -3355,7 +3355,7 @@
 }
 
 .border-56 {
-  border: 56vh;
+  border-width: 56px;
 }
 
 .text-57 {
@@ -3415,7 +3415,7 @@
 }
 
 .border-57 {
-  border: 57vh;
+  border-width: 57px;
 }
 
 .text-58 {
@@ -3475,7 +3475,7 @@
 }
 
 .border-58 {
-  border: 58vh;
+  border-width: 58px;
 }
 
 .text-59 {
@@ -3535,7 +3535,7 @@
 }
 
 .border-59 {
-  border: 59vh;
+  border-width: 59px;
 }
 
 .text-60 {
@@ -3595,7 +3595,7 @@
 }
 
 .border-60 {
-  border: 60vh;
+  border-width: 60px;
 }
 
 .text-61 {
@@ -3655,7 +3655,7 @@
 }
 
 .border-61 {
-  border: 61vh;
+  border-width: 61px;
 }
 
 .text-62 {
@@ -3715,7 +3715,7 @@
 }
 
 .border-62 {
-  border: 62vh;
+  border-width: 62px;
 }
 
 .text-63 {
@@ -3775,7 +3775,7 @@
 }
 
 .border-63 {
-  border: 63vh;
+  border-width: 63px;
 }
 
 .text-64 {
@@ -3835,7 +3835,7 @@
 }
 
 .border-64 {
-  border: 64vh;
+  border-width: 64px;
 }
 
 .text-65 {
@@ -3895,7 +3895,7 @@
 }
 
 .border-65 {
-  border: 65vh;
+  border-width: 65px;
 }
 
 .text-66 {
@@ -3955,7 +3955,7 @@
 }
 
 .border-66 {
-  border: 66vh;
+  border-width: 66px;
 }
 
 .text-67 {
@@ -4015,7 +4015,7 @@
 }
 
 .border-67 {
-  border: 67vh;
+  border-width: 67px;
 }
 
 .text-68 {
@@ -4075,7 +4075,7 @@
 }
 
 .border-68 {
-  border: 68vh;
+  border-width: 68px;
 }
 
 .text-69 {
@@ -4135,7 +4135,7 @@
 }
 
 .border-69 {
-  border: 69vh;
+  border-width: 69px;
 }
 
 .text-70 {
@@ -4195,7 +4195,7 @@
 }
 
 .border-70 {
-  border: 70vh;
+  border-width: 70px;
 }
 
 .text-71 {
@@ -4255,7 +4255,7 @@
 }
 
 .border-71 {
-  border: 71vh;
+  border-width: 71px;
 }
 
 .text-72 {
@@ -4315,7 +4315,7 @@
 }
 
 .border-72 {
-  border: 72vh;
+  border-width: 72px;
 }
 
 .text-73 {
@@ -4375,7 +4375,7 @@
 }
 
 .border-73 {
-  border: 73vh;
+  border-width: 73px;
 }
 
 .text-74 {
@@ -4435,7 +4435,7 @@
 }
 
 .border-74 {
-  border: 74vh;
+  border-width: 74px;
 }
 
 .text-75 {
@@ -4495,7 +4495,7 @@
 }
 
 .border-75 {
-  border: 75vh;
+  border-width: 75px;
 }
 
 .text-76 {
@@ -4555,7 +4555,7 @@
 }
 
 .border-76 {
-  border: 76vh;
+  border-width: 76px;
 }
 
 .text-77 {
@@ -4615,7 +4615,7 @@
 }
 
 .border-77 {
-  border: 77vh;
+  border-width: 77px;
 }
 
 .text-78 {
@@ -4675,7 +4675,7 @@
 }
 
 .border-78 {
-  border: 78vh;
+  border-width: 78px;
 }
 
 .text-79 {
@@ -4735,7 +4735,7 @@
 }
 
 .border-79 {
-  border: 79vh;
+  border-width: 79px;
 }
 
 .text-80 {
@@ -4795,7 +4795,7 @@
 }
 
 .border-80 {
-  border: 80vh;
+  border-width: 80px;
 }
 
 .text-81 {
@@ -4855,7 +4855,7 @@
 }
 
 .border-81 {
-  border: 81vh;
+  border-width: 81px;
 }
 
 .text-82 {
@@ -4915,7 +4915,7 @@
 }
 
 .border-82 {
-  border: 82vh;
+  border-width: 82px;
 }
 
 .text-83 {
@@ -4975,7 +4975,7 @@
 }
 
 .border-83 {
-  border: 83vh;
+  border-width: 83px;
 }
 
 .text-84 {
@@ -5035,7 +5035,7 @@
 }
 
 .border-84 {
-  border: 84vh;
+  border-width: 84px;
 }
 
 .text-85 {
@@ -5095,7 +5095,7 @@
 }
 
 .border-85 {
-  border: 85vh;
+  border-width: 85px;
 }
 
 .text-86 {
@@ -5155,7 +5155,7 @@
 }
 
 .border-86 {
-  border: 86vh;
+  border-width: 86px;
 }
 
 .text-87 {
@@ -5215,7 +5215,7 @@
 }
 
 .border-87 {
-  border: 87vh;
+  border-width: 87px;
 }
 
 .text-88 {
@@ -5275,7 +5275,7 @@
 }
 
 .border-88 {
-  border: 88vh;
+  border-width: 88px;
 }
 
 .text-89 {
@@ -5335,7 +5335,7 @@
 }
 
 .border-89 {
-  border: 89vh;
+  border-width: 89px;
 }
 
 .text-90 {
@@ -5395,7 +5395,7 @@
 }
 
 .border-90 {
-  border: 90vh;
+  border-width: 90px;
 }
 
 .text-91 {
@@ -5455,7 +5455,7 @@
 }
 
 .border-91 {
-  border: 91vh;
+  border-width: 91px;
 }
 
 .text-92 {
@@ -5515,7 +5515,7 @@
 }
 
 .border-92 {
-  border: 92vh;
+  border-width: 92px;
 }
 
 .text-93 {
@@ -5575,7 +5575,7 @@
 }
 
 .border-93 {
-  border: 93vh;
+  border-width: 93px;
 }
 
 .text-94 {
@@ -5635,7 +5635,7 @@
 }
 
 .border-94 {
-  border: 94vh;
+  border-width: 94px;
 }
 
 .text-95 {
@@ -5695,7 +5695,7 @@
 }
 
 .border-95 {
-  border: 95vh;
+  border-width: 95px;
 }
 
 .text-96 {
@@ -5755,7 +5755,7 @@
 }
 
 .border-96 {
-  border: 96vh;
+  border-width: 96px;
 }
 
 .text-97 {
@@ -5815,7 +5815,7 @@
 }
 
 .border-97 {
-  border: 97vh;
+  border-width: 97px;
 }
 
 .text-98 {
@@ -5875,7 +5875,7 @@
 }
 
 .border-98 {
-  border: 98vh;
+  border-width: 98px;
 }
 
 .text-99 {
@@ -5935,7 +5935,7 @@
 }
 
 .border-99 {
-  border: 99vh;
+  border-width: 99px;
 }
 
 .text-100 {
@@ -5995,7 +5995,7 @@
 }
 
 .border-100 {
-  border: 100vh;
+  border-width: 100px;
 }
 
 .text-101 {
@@ -6055,7 +6055,7 @@
 }
 
 .border-101 {
-  border: 101vh;
+  border-width: 101px;
 }
 
 .text-102 {
@@ -6115,7 +6115,7 @@
 }
 
 .border-102 {
-  border: 102vh;
+  border-width: 102px;
 }
 
 .text-103 {
@@ -6175,7 +6175,7 @@
 }
 
 .border-103 {
-  border: 103vh;
+  border-width: 103px;
 }
 
 .text-104 {
@@ -6235,7 +6235,7 @@
 }
 
 .border-104 {
-  border: 104vh;
+  border-width: 104px;
 }
 
 .text-105 {
@@ -6295,7 +6295,7 @@
 }
 
 .border-105 {
-  border: 105vh;
+  border-width: 105px;
 }
 
 .text-106 {
@@ -6355,7 +6355,7 @@
 }
 
 .border-106 {
-  border: 106vh;
+  border-width: 106px;
 }
 
 .text-107 {
@@ -6415,7 +6415,7 @@
 }
 
 .border-107 {
-  border: 107vh;
+  border-width: 107px;
 }
 
 .text-108 {
@@ -6475,7 +6475,7 @@
 }
 
 .border-108 {
-  border: 108vh;
+  border-width: 108px;
 }
 
 .text-109 {
@@ -6535,7 +6535,7 @@
 }
 
 .border-109 {
-  border: 109vh;
+  border-width: 109px;
 }
 
 .text-110 {
@@ -6595,7 +6595,7 @@
 }
 
 .border-110 {
-  border: 110vh;
+  border-width: 110px;
 }
 
 .text-111 {
@@ -6655,7 +6655,7 @@
 }
 
 .border-111 {
-  border: 111vh;
+  border-width: 111px;
 }
 
 .text-112 {
@@ -6715,7 +6715,7 @@
 }
 
 .border-112 {
-  border: 112vh;
+  border-width: 112px;
 }
 
 .text-113 {
@@ -6775,7 +6775,7 @@
 }
 
 .border-113 {
-  border: 113vh;
+  border-width: 113px;
 }
 
 .text-114 {
@@ -6835,7 +6835,7 @@
 }
 
 .border-114 {
-  border: 114vh;
+  border-width: 114px;
 }
 
 .text-115 {
@@ -6895,7 +6895,7 @@
 }
 
 .border-115 {
-  border: 115vh;
+  border-width: 115px;
 }
 
 .text-116 {
@@ -6955,7 +6955,7 @@
 }
 
 .border-116 {
-  border: 116vh;
+  border-width: 116px;
 }
 
 .text-117 {
@@ -7015,7 +7015,7 @@
 }
 
 .border-117 {
-  border: 117vh;
+  border-width: 117px;
 }
 
 .text-118 {
@@ -7075,7 +7075,7 @@
 }
 
 .border-118 {
-  border: 118vh;
+  border-width: 118px;
 }
 
 .text-119 {
@@ -7135,7 +7135,7 @@
 }
 
 .border-119 {
-  border: 119vh;
+  border-width: 119px;
 }
 
 .text-120 {
@@ -7195,7 +7195,7 @@
 }
 
 .border-120 {
-  border: 120vh;
+  border-width: 120px;
 }
 
 .text-121 {
@@ -7255,7 +7255,7 @@
 }
 
 .border-121 {
-  border: 121vh;
+  border-width: 121px;
 }
 
 .text-122 {
@@ -7315,7 +7315,7 @@
 }
 
 .border-122 {
-  border: 122vh;
+  border-width: 122px;
 }
 
 .text-123 {
@@ -7375,7 +7375,7 @@
 }
 
 .border-123 {
-  border: 123vh;
+  border-width: 123px;
 }
 
 .text-124 {
@@ -7435,7 +7435,7 @@
 }
 
 .border-124 {
-  border: 124vh;
+  border-width: 124px;
 }
 
 .text-125 {
@@ -7495,7 +7495,7 @@
 }
 
 .border-125 {
-  border: 125vh;
+  border-width: 125px;
 }
 
 .text-126 {
@@ -7555,7 +7555,7 @@
 }
 
 .border-126 {
-  border: 126vh;
+  border-width: 126px;
 }
 
 .text-127 {
@@ -7615,7 +7615,7 @@
 }
 
 .border-127 {
-  border: 127vh;
+  border-width: 127px;
 }
 
 .text-128 {
@@ -7675,7 +7675,7 @@
 }
 
 .border-128 {
-  border: 128vh;
+  border-width: 128px;
 }
 
 .text-129 {
@@ -7735,7 +7735,7 @@
 }
 
 .border-129 {
-  border: 129vh;
+  border-width: 129px;
 }
 
 .text-130 {
@@ -7795,7 +7795,7 @@
 }
 
 .border-130 {
-  border: 130vh;
+  border-width: 130px;
 }
 
 .text-131 {
@@ -7855,7 +7855,7 @@
 }
 
 .border-131 {
-  border: 131vh;
+  border-width: 131px;
 }
 
 .text-132 {
@@ -7915,7 +7915,7 @@
 }
 
 .border-132 {
-  border: 132vh;
+  border-width: 132px;
 }
 
 .text-133 {
@@ -7975,7 +7975,7 @@
 }
 
 .border-133 {
-  border: 133vh;
+  border-width: 133px;
 }
 
 .text-134 {
@@ -8035,7 +8035,7 @@
 }
 
 .border-134 {
-  border: 134vh;
+  border-width: 134px;
 }
 
 .text-135 {
@@ -8095,7 +8095,7 @@
 }
 
 .border-135 {
-  border: 135vh;
+  border-width: 135px;
 }
 
 .text-136 {
@@ -8155,7 +8155,7 @@
 }
 
 .border-136 {
-  border: 136vh;
+  border-width: 136px;
 }
 
 .text-137 {
@@ -8215,7 +8215,7 @@
 }
 
 .border-137 {
-  border: 137vh;
+  border-width: 137px;
 }
 
 .text-138 {
@@ -8275,7 +8275,7 @@
 }
 
 .border-138 {
-  border: 138vh;
+  border-width: 138px;
 }
 
 .text-139 {
@@ -8335,7 +8335,7 @@
 }
 
 .border-139 {
-  border: 139vh;
+  border-width: 139px;
 }
 
 .text-140 {
@@ -8395,7 +8395,7 @@
 }
 
 .border-140 {
-  border: 140vh;
+  border-width: 140px;
 }
 
 .text-141 {
@@ -8455,7 +8455,7 @@
 }
 
 .border-141 {
-  border: 141vh;
+  border-width: 141px;
 }
 
 .text-142 {
@@ -8515,7 +8515,7 @@
 }
 
 .border-142 {
-  border: 142vh;
+  border-width: 142px;
 }
 
 .text-143 {
@@ -8575,7 +8575,7 @@
 }
 
 .border-143 {
-  border: 143vh;
+  border-width: 143px;
 }
 
 .text-144 {
@@ -8635,7 +8635,7 @@
 }
 
 .border-144 {
-  border: 144vh;
+  border-width: 144px;
 }
 
 .text-145 {
@@ -8695,7 +8695,7 @@
 }
 
 .border-145 {
-  border: 145vh;
+  border-width: 145px;
 }
 
 .text-146 {
@@ -8755,7 +8755,7 @@
 }
 
 .border-146 {
-  border: 146vh;
+  border-width: 146px;
 }
 
 .text-147 {
@@ -8815,7 +8815,7 @@
 }
 
 .border-147 {
-  border: 147vh;
+  border-width: 147px;
 }
 
 .text-148 {
@@ -8875,7 +8875,7 @@
 }
 
 .border-148 {
-  border: 148vh;
+  border-width: 148px;
 }
 
 .text-149 {
@@ -8935,7 +8935,7 @@
 }
 
 .border-149 {
-  border: 149vh;
+  border-width: 149px;
 }
 
 .text-150 {
@@ -8995,7 +8995,7 @@
 }
 
 .border-150 {
-  border: 150vh;
+  border-width: 150px;
 }
 
 .text-151 {
@@ -9055,7 +9055,7 @@
 }
 
 .border-151 {
-  border: 151vh;
+  border-width: 151px;
 }
 
 .text-152 {
@@ -9115,7 +9115,7 @@
 }
 
 .border-152 {
-  border: 152vh;
+  border-width: 152px;
 }
 
 .text-153 {
@@ -9175,7 +9175,7 @@
 }
 
 .border-153 {
-  border: 153vh;
+  border-width: 153px;
 }
 
 .text-154 {
@@ -9235,7 +9235,7 @@
 }
 
 .border-154 {
-  border: 154vh;
+  border-width: 154px;
 }
 
 .text-155 {
@@ -9295,7 +9295,7 @@
 }
 
 .border-155 {
-  border: 155vh;
+  border-width: 155px;
 }
 
 .text-156 {
@@ -9355,7 +9355,7 @@
 }
 
 .border-156 {
-  border: 156vh;
+  border-width: 156px;
 }
 
 .text-157 {
@@ -9415,7 +9415,7 @@
 }
 
 .border-157 {
-  border: 157vh;
+  border-width: 157px;
 }
 
 .text-158 {
@@ -9475,7 +9475,7 @@
 }
 
 .border-158 {
-  border: 158vh;
+  border-width: 158px;
 }
 
 .text-159 {
@@ -9535,7 +9535,7 @@
 }
 
 .border-159 {
-  border: 159vh;
+  border-width: 159px;
 }
 
 .text-160 {
@@ -9595,7 +9595,7 @@
 }
 
 .border-160 {
-  border: 160vh;
+  border-width: 160px;
 }
 
 .text-161 {
@@ -9655,7 +9655,7 @@
 }
 
 .border-161 {
-  border: 161vh;
+  border-width: 161px;
 }
 
 .text-162 {
@@ -9715,7 +9715,7 @@
 }
 
 .border-162 {
-  border: 162vh;
+  border-width: 162px;
 }
 
 .text-163 {
@@ -9775,7 +9775,7 @@
 }
 
 .border-163 {
-  border: 163vh;
+  border-width: 163px;
 }
 
 .text-164 {
@@ -9835,7 +9835,7 @@
 }
 
 .border-164 {
-  border: 164vh;
+  border-width: 164px;
 }
 
 .text-165 {
@@ -9895,7 +9895,7 @@
 }
 
 .border-165 {
-  border: 165vh;
+  border-width: 165px;
 }
 
 .text-166 {
@@ -9955,7 +9955,7 @@
 }
 
 .border-166 {
-  border: 166vh;
+  border-width: 166px;
 }
 
 .text-167 {
@@ -10015,7 +10015,7 @@
 }
 
 .border-167 {
-  border: 167vh;
+  border-width: 167px;
 }
 
 .text-168 {
@@ -10075,7 +10075,7 @@
 }
 
 .border-168 {
-  border: 168vh;
+  border-width: 168px;
 }
 
 .text-169 {
@@ -10135,7 +10135,7 @@
 }
 
 .border-169 {
-  border: 169vh;
+  border-width: 169px;
 }
 
 .text-170 {
@@ -10195,7 +10195,7 @@
 }
 
 .border-170 {
-  border: 170vh;
+  border-width: 170px;
 }
 
 .text-171 {
@@ -10255,7 +10255,7 @@
 }
 
 .border-171 {
-  border: 171vh;
+  border-width: 171px;
 }
 
 .text-172 {
@@ -10315,7 +10315,7 @@
 }
 
 .border-172 {
-  border: 172vh;
+  border-width: 172px;
 }
 
 .text-173 {
@@ -10375,7 +10375,7 @@
 }
 
 .border-173 {
-  border: 173vh;
+  border-width: 173px;
 }
 
 .text-174 {
@@ -10435,7 +10435,7 @@
 }
 
 .border-174 {
-  border: 174vh;
+  border-width: 174px;
 }
 
 .text-175 {
@@ -10495,7 +10495,7 @@
 }
 
 .border-175 {
-  border: 175vh;
+  border-width: 175px;
 }
 
 .text-176 {
@@ -10555,7 +10555,7 @@
 }
 
 .border-176 {
-  border: 176vh;
+  border-width: 176px;
 }
 
 .text-177 {
@@ -10615,7 +10615,7 @@
 }
 
 .border-177 {
-  border: 177vh;
+  border-width: 177px;
 }
 
 .text-178 {
@@ -10675,7 +10675,7 @@
 }
 
 .border-178 {
-  border: 178vh;
+  border-width: 178px;
 }
 
 .text-179 {
@@ -10735,7 +10735,7 @@
 }
 
 .border-179 {
-  border: 179vh;
+  border-width: 179px;
 }
 
 .text-180 {
@@ -10795,7 +10795,7 @@
 }
 
 .border-180 {
-  border: 180vh;
+  border-width: 180px;
 }
 
 .text-181 {
@@ -10855,7 +10855,7 @@
 }
 
 .border-181 {
-  border: 181vh;
+  border-width: 181px;
 }
 
 .text-182 {
@@ -10915,7 +10915,7 @@
 }
 
 .border-182 {
-  border: 182vh;
+  border-width: 182px;
 }
 
 .text-183 {
@@ -10975,7 +10975,7 @@
 }
 
 .border-183 {
-  border: 183vh;
+  border-width: 183px;
 }
 
 .text-184 {
@@ -11035,7 +11035,7 @@
 }
 
 .border-184 {
-  border: 184vh;
+  border-width: 184px;
 }
 
 .text-185 {
@@ -11095,7 +11095,7 @@
 }
 
 .border-185 {
-  border: 185vh;
+  border-width: 185px;
 }
 
 .text-186 {
@@ -11155,7 +11155,7 @@
 }
 
 .border-186 {
-  border: 186vh;
+  border-width: 186px;
 }
 
 .text-187 {
@@ -11215,7 +11215,7 @@
 }
 
 .border-187 {
-  border: 187vh;
+  border-width: 187px;
 }
 
 .text-188 {
@@ -11275,7 +11275,7 @@
 }
 
 .border-188 {
-  border: 188vh;
+  border-width: 188px;
 }
 
 .text-189 {
@@ -11335,7 +11335,7 @@
 }
 
 .border-189 {
-  border: 189vh;
+  border-width: 189px;
 }
 
 .text-190 {
@@ -11395,7 +11395,7 @@
 }
 
 .border-190 {
-  border: 190vh;
+  border-width: 190px;
 }
 
 .text-191 {
@@ -11455,7 +11455,7 @@
 }
 
 .border-191 {
-  border: 191vh;
+  border-width: 191px;
 }
 
 .text-192 {
@@ -11515,7 +11515,7 @@
 }
 
 .border-192 {
-  border: 192vh;
+  border-width: 192px;
 }
 
 .text-193 {
@@ -11575,7 +11575,7 @@
 }
 
 .border-193 {
-  border: 193vh;
+  border-width: 193px;
 }
 
 .text-194 {
@@ -11635,7 +11635,7 @@
 }
 
 .border-194 {
-  border: 194vh;
+  border-width: 194px;
 }
 
 .text-195 {
@@ -11695,7 +11695,7 @@
 }
 
 .border-195 {
-  border: 195vh;
+  border-width: 195px;
 }
 
 .text-196 {
@@ -11755,7 +11755,7 @@
 }
 
 .border-196 {
-  border: 196vh;
+  border-width: 196px;
 }
 
 .text-197 {
@@ -11815,7 +11815,7 @@
 }
 
 .border-197 {
-  border: 197vh;
+  border-width: 197px;
 }
 
 .text-198 {
@@ -11875,7 +11875,7 @@
 }
 
 .border-198 {
-  border: 198vh;
+  border-width: 198px;
 }
 
 .text-199 {
@@ -11935,7 +11935,7 @@
 }
 
 .border-199 {
-  border: 199vh;
+  border-width: 199px;
 }
 
 .text-200 {
@@ -11995,7 +11995,7 @@
 }
 
 .border-200 {
-  border: 200vh;
+  border-width: 200px;
 }
 
 .rang-red {
@@ -12074,8 +12074,46 @@
   justify-content: space-evenly;
 }
 
+.items-space-between {
+  align-items: space-between;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.items-space-around {
+  align-items: space-around;
+}
+
+.items-space-evenly {
+  align-items: space-evenly;
+}
+
 .border-none {
   border: none;
 }
 
-@alins : center, end, start;/*# sourceMappingURL=style.css.map */
+.align-center {
+  text-align: center;
+}
+
+.align-end {
+  text-align: end;
+}
+
+.align-start {
+  text-align: start;
+}
+
+.border-solid {
+  border: solid;
+}
+
+.border-black {
+  border: black;
+}
+
+.border-gray {
+  border: gray;
+}/*# sourceMappingURL=style.css.map */
