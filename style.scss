@@ -96,4 +96,13 @@ $border: none;
    .border-#{$x} { 
       border: $x;
    }
+} 
+
+@alins : center, end, start ; 
+
+@each $q in $alins { 
+   .align-#{$q} { 
+      text-align: #{$q};
+   }  
+
 }
